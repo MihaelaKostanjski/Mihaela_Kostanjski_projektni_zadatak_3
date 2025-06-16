@@ -1,0 +1,43 @@
+
+body {
+  background-color: #E6E6FA;
+  background-image: url("slike/pot.jpg");
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+p {
+    color: white;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+    font-size: 16px;
+    line-height: 18px;
+    width: 600px;
+    background-color: MediumSlateBlue;
+    padding: 20px;
+}
+
+h2 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+a:link {
+    color: white;
+    background-color: MediumSlateBlue;
+    padding: 5px;
+    line-height: 40px;
+    border: 1px solid #000000;
+}
+h1, h2, h3 {
+  color: #34568B; 
+  margin-bottom: 15px;
+  text-shadow: 1px 1px 2px #ccc;
+}
+h1 {
+  font-size: 3em; 
+}
